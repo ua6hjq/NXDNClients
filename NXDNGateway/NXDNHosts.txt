@@ -60,9 +60,6 @@
 # 2263 Bucharest YO3 NXDN Network
 2263	nxdn.dstar-yo.ro	41000
 
-# 2503 RU DMR
-2503  nxdn.r1ik.ru  41400
-
 # 2700 Melbourne FL
 2700  2700nxdn.ddns.net  41400
 
